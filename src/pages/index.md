@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Maximilian Lindig
+image: /img/me_frontal.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Media Informatics Student
 mainpitch:
   title: Why Kaldi
   description: >
