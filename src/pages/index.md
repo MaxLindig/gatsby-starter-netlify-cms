@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maximilian Lindig
-image: /img/me_frontal.jpg
+image: /img/myself.jpg
 heading: Great coffee with a conscience
 subheading: Media Informatics Student
 mainpitch:
